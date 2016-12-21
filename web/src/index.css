@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.masthead {
+  min-height: 700px;
+  padding: 1em 0em;
+}
+
+.masthead h1.ui.header {
+  margin-top: 3em;
+  margin-bottom: 0em;
+  font-size: 4em;
+  font-weight: normal;
+}
+
+.welcomer-image {
+  margin-top: 10em;
+  margin-bottom: 0em;
+}
+
+.masthead h2.ui.header {
+  font-size: 1.7em;
+  font-weight: normal;
+}
